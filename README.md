@@ -8,7 +8,7 @@
 - **주제**: 투구 단위 제구 성공 확률(`control_success = 1`) 예측
 - **평가 지표**: Brier Skill Score
 - **진행 기간**: 2026.08 ~ 
-- **Notion 실험일지**: [노션 링크][(https://www.notion.so)](https://app.notion.com/p/LG-AIMERS-9-3b95b5453c4f80f9910ed60be093fbf6?source=copy_link)
+- **Notion 실험일지**: [노션 링크](https://app.notion.com/p/LG-AIMERS-9-3b95b5453c4f80f9910ed60be093fbf6?source=copy_link)
 
 ---
 
@@ -18,7 +18,6 @@
 ├── submit_builder/       # 제출용 패키징 (script.py, requirements.txt)
 ├── eda/                  # 데이터 분석 및 인사이트 탐색
 └── README.md
-'''
 ---
 
 ## 📊 Experiment Results
