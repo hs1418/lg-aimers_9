@@ -19,6 +19,8 @@
 ├── eda/                  # 데이터 분석 및 인사이트 탐색
 └── README.md
 
+---
+
 ## 📊 Experiment Results
 
 | Exp ID | Model | Val Score | Public LB | Description |
