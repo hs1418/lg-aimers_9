@@ -1,6 +1,3 @@
-# lg-aimers_9
-LG Aimers 9기 해커톤 - KBO 투구 제구 성공 확률 예측 AI
-
 # ⚾ KBO 투구 제구 성공 확률 예측 AI (LG Aimers 9기 Hackathon)
 
 투구 직전의 경기 상황, 선수 이력, 과거 Trackman 로그 데이터를 활용하여 각 투구의 제구 성공 확률을 예측하는 AI 모델링 프로젝트입니다.
