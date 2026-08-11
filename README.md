@@ -18,9 +18,8 @@
 ├── submit_builder/       # 제출용 패키징 (script.py, requirements.txt)
 ├── eda/                  # 데이터 분석 및 인사이트 탐색
 └── README.md
-~
 
----
+```
 
 ## 📊 Experiment Results
 
