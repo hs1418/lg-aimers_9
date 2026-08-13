@@ -28,6 +28,7 @@
 | **Exp-001** | RandomForest | **415.57** | **549.64** | Baseline 파이프라인 구축 및 정상 제출 검증 완료 |
 
 ```
+```
 ## 📊 Data Overview & Key Insights
 
 ### 1. Dataset Summary
